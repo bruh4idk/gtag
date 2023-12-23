@@ -1,0 +1,34 @@
+# walksim
+
+## Controls
+
+* **Hold Tab** - Enter mode select. Hover over a mode and release tab to select it.
+* **C** - Enter first person mode
+* **1-6** - Emotes
+* **Escape** - Unlock the mouse
+
+__Walk mode__
+* WASD - Move
+* Space - Jump
+* Shift - Sprint
+* Control - Crouch
+
+__Fly mode__
+* WASD to move
+* Space to go up
+* Control to go down
+
+__Interaction Mode__
+* Left/Right Click -  While looking at a button, press to click the button
+
+__Pose Mode__
+* Move your hands with the mouse
+* Scroll Wheel -  Move hand forward/back
+* Left Click - Curl index finger
+* Right Click - Curl middle finger (or pinky?)
+* mouse4 - Basically presses A/X
+* mouse5 - Basically pressed B/Y
+* Q - Switch hand
+* Hold R  - Rotate hand
+mouse4 and mouse5 are the side buttons on your mouse. (if u have those)
+This version of the mod should automatically update your BepInEx config to set `HideManagerGameObject = true`
